@@ -1,1 +1,1 @@
-# M1_ApplicationAutomation_RestaurantBillingSystem
+# M1_Application_RestaurantBillingSystem
