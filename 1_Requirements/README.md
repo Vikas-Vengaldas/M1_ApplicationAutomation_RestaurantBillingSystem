@@ -46,7 +46,7 @@ This project is written in basic C programming language for easy understanding a
 ## High level Requirements
 |S.No|Description|Status(Implemented/Future)|
 | ---- | ---- | ----|
-|1| add Customer name| Implemented|
+|1| add customer name| Implemented|
 |2| selection of food items | Implemented|
 |3| addition and deletion of food items| Implemented|
 |4| calculation of GST and Total bill| Implemented|
