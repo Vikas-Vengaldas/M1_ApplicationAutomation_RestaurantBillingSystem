@@ -55,7 +55,7 @@ This project is written in basic C programming language for easy understanding a
 ## Low Level Requirements
 |S.No|Description|Status(Implemented/Future)|
 | ---- | ---- | ----|
-|1| to access stored data| Future |
+|1| to access stored data| Implemented|
 
 
 
