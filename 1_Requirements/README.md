@@ -1,1 +1,64 @@
 
+# Restaurant Billing System
+## Introduction
+
+The project is "Restaurant Billing System" software for monitoring and controlling the transactions in a Restaurant.
+
+The project Restaurant Billing System gives us the facility to manage the Restaurants billing system. This application is helpful for staff or admin for billing of food order and managing customers details. This application is access by only staff and admin. Members can't access it directly.
+
+## Features
+List of features which are in provided in this application —
+
+*	Classify the customers Name wise.
+*	Easy way to order food.
+*	Easy way to add and delete items.
+*   Automatic GST calculation.
+*   Generating a bill.
+*   Easy Insertion, Deletion, Updation to database module.
+
+## Requirements
+*  Laptop or PC
+*  MS Visual Studio Code
+*  Build tools 
+*  Software setup for WSL
+
+### Why
+The main objective of this project is to provide a friendly environment to maintain the details of restaurants and library members. The main purpose of this project is replace the manually work.
+### Where
+This project can be implemented in Restaurants for generating bills.
+
+### How
+This project is written in basic C programming language for easy understanding and executed in Visual Studio Code.
+
+## SWOT analysis
+### Strengths
+*	Automation —The application automates each and every activity of the manual system and increases its throughput. Thus the response time of the system is very less and it works very fast.
+*	Accuracy — The application provides the user a quick response with very accurate information regarding the user etc. any details or system in an accurate manner, as when required.
+*	User Friendly — The application Restaurant Billing System has a very user friendly interface. Thus the users will full very easy to work on it. The application provides accuracy along with a pleasant interface. Make the present manual system more interactive, speedy and user friendly.
+*	Availability — The all transaction of restaurant stored permanently in the database admin can see the data in the availability of any information, whatever needed.
+*	Maintain Cost — Reduce the cost of maintenance. It is standalone application so no required of cost for maintain it.
+### Weakness
+* Hanging of system sometimes.
+### Opportunities
+* To store billing data for long time.
+### Threats
+* Theft of data due to hacking.
+## High level Requirements
+|S.No|Description|Status(Implemented/Future)|
+| ---- | ---- | ----|
+|1| add Customer name| Implemented|
+|2| selection of food items | Implemented|
+|3| addition and deletion of food items| Implemented|
+|4| calculation of GST and Total bill| Implemented|
+
+
+## Low Level Requirements
+|S.No|Description|Status(Implemented/Future)|
+| ---- | ---- | ----|
+|1| to access stored data| Future |
+
+
+
+
+
+
