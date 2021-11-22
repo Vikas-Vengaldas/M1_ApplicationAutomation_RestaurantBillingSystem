@@ -9,12 +9,12 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 ## Features
 List of features which are in provided in this application —
 
-*	  Classify the customers Name wise.
-*	  Easy way to order food.
-*	  Easy way to add and delete items.
-*   It has signup and Login to the customers and Admin.
-*   Generating a bill.
-*   Easy Insertion, Deletion, Updation to database module.
+*	 Classify the customers Name wise.
+*	 Easy way to order food.
+*	 Easy way to add and delete items.
+*  It has signup and Login to the customers and Admin.
+*  Generating a bill.
+*  Easy Insertion, Deletion, Updation to database module.
 
 ## Requirements
 *  Laptop or PC
