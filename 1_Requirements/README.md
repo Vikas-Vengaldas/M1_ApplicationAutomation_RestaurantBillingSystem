@@ -4,7 +4,7 @@
 
 The project is "Restaurant Billing System" software for monitoring and controlling the transactions in a Restaurant.
 
-The project Restaurant Billing System gives us the facility to manage the Restaurants billing system. This application is helpful for staff or admin for billing of food order and managing customers details. This application is access by only staff and admin. Members can't access it directly.
+The project Restaurant Billing System gives us the facility to manage the Restaurants billing system. This application is helpful for staff or admin for billing of food order and managing customers details. This application is access by only staff and registered customers. Members can't access it directly.
 
 ## Features
 List of features which are in provided in this application —
