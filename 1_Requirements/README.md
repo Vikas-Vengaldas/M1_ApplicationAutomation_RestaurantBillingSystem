@@ -9,10 +9,10 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 ## Features
 List of features which are in provided in this application —
 
-*	Classify the customers Name wise.
-*	Easy way to order food.
-*	Easy way to add and delete items.
-*   Automatic GST calculation.
+*	  Classify the customers Name wise.
+*	  Easy way to order food.
+*	  Easy way to add and delete items.
+*   It has signup and Login to the customers and Admin.
 *   Generating a bill.
 *   Easy Insertion, Deletion, Updation to database module.
 
@@ -20,7 +20,7 @@ List of features which are in provided in this application —
 *  Laptop or PC
 *  MS Visual Studio Code
 *  Build tools 
-*  Software setup for WSL
+*  Software setup for windows, Linux and WSL
 
 ### Why
 The main objective of this project is to provide a friendly environment to maintain the details of restaurants and library members. The main purpose of this project is replace the manually work.
@@ -38,24 +38,25 @@ This project is written in basic C programming language for easy understanding a
 *	Availability — The all transaction of restaurant stored permanently in the database admin can see the data in the availability of any information, whatever needed.
 *	Maintain Cost — Reduce the cost of maintenance. It is standalone application so no required of cost for maintain it.
 ### Weakness
-* Hanging of system sometimes.
+* Poor user interface design as only C Language is used.
 ### Opportunities
 * To store billing data for long time.
 ### Threats
-* Theft of data due to hacking.
+* Other langauge applications are available easily in market.
 ## High level Requirements
 |S.No|Description|Status(Implemented/Future)|
 | ---- | ---- | ----|
-|1| add customer name| Implemented|
-|2| selection of food items | Implemented|
-|3| addition and deletion of food items| Implemented|
-|4| calculation of GST and Total bill| Implemented|
+|HLR1| add customer name| Implemented|
+|HLR2| selection of food items | Implemented|
+|HLR3| addition and deletion of food items| Implemented|
+|HLR4| calculation of Total bill| Implemented|
 
 
 ## Low Level Requirements
 |S.No|Description|Status(Implemented/Future)|
 | ---- | ---- | ----|
-|1| to access stored data| Implemented|
+|LLR1| to access stored data| Implemented|
+|LLR2| to modify meals data| Implemented|
 
 
 
