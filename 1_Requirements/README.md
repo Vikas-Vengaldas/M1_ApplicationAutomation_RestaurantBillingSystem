@@ -54,7 +54,7 @@ This project is written in basic C programming language for easy understanding a
 |HLR1| add customer name|  Implemented|
 |HLR2| selection of  food items | Implemented|
 |HLR3| addition and  deletion of food items| Implemented|
-|HLR4| calculation of Total bill| Implemented|
+|HLR4| calculation of  Total bill| Implemented|
 
 
 ## Low Level Requirements 
