@@ -11,30 +11,9 @@
                 "_UNICODE"
             ],
             "compilerPath": "/usr/bin/gcc",
-<<<<<<< HEAD
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "linux-gcc-x64"
-=======
-            "cStandard": "gnu17",
-            "cppStandard": "gnu++14",
-            "intelliSenseMode": "linux-gcc-x64"
-        },
-        {
-            "name": "GCC",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ],
-            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "gcc-x64"
->>>>>>> 06dbf338ef10912383809bc2ead2e865b7279311
         }
     ],
     "version": 4
