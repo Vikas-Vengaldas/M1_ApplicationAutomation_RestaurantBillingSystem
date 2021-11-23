@@ -51,13 +51,13 @@ This project is written in basic C programming language for easy understanding a
 ## High level Requirements
 |S.No|Description|Status(Implemented/Future)|
 | ---- | ---- | ----|
-|HLR1| add customer name| Implemented|
-|HLR2| selection of food items | Implemented|
-|HLR3| addition and deletion of food items| Implemented|
+|HLR1| add customer name|  Implemented|
+|HLR2| selection of  food items | Implemented|
+|HLR3| addition and  deletion of food items| Implemented|
 |HLR4| calculation of Total bill| Implemented|
 
 
-## Low Level Requirements
+## Low Level Requirements 
 |S.No|Description|Status(Implemented/Future)|
 | ---- | ---- | ----|
 |LLR1| to access stored data| Implemented|
