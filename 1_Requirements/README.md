@@ -22,6 +22,12 @@ List of features which are in provided in this application —
 *  Build tools 
 *  Software setup for windows, Linux and WSL
 
+## State of Art or Research
+
+* Twenty years ago in restaurants the bills are hand written and there is no proper billing, bills are handwritten which may be wrong in calculations.
+* Ten years ago still bills are hand written called as receipts and calculations are done using calculator.
+* Present all restaurants are using software billing system which are accurate, less processing time, automatic calculations with no errors.
+
 ## 4W's and 1'H
 ### Why
 The main objective of this project is to provide a friendly environment to maintain the details of restaurants and library members. The main purpose of this project is replace the manually work.
