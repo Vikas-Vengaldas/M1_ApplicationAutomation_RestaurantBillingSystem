@@ -35,5 +35,8 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |2. |MS Visual Studio code Setup  | Exploring the Visual studio code website, setup was completed|
 |3. | Making multifile for the program | Exploring the templates given by genesis team learned making multifile|
 
+## Learning Resources
+[Markdown-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)("Markdownsheet")
+
 
 
