@@ -62,7 +62,7 @@ This project is written in basic C programming language for easy understanding a
 |LLR1| to access stored data| Implemented|
 |LLR2| to modify meals data| Implemented|
 
-## Design
+## Architecture
 ### Structure Diagram
 ![Untitled Workspace](https://user-images.githubusercontent.com/94158848/143039826-93ac3923-539f-4009-beea-88fc985d551a.png)
 
