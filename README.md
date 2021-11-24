@@ -36,7 +36,7 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | Making multifile for the program | Exploring the templates given by genesis team learned making multifile|
 
 ## Learning Resources
-[Markdown-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)("Markdownsheet")
+[Markdown-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
