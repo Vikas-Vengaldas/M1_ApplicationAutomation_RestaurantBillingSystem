@@ -30,16 +30,16 @@ List of features which are in provided in this application —
 
 ## 4W's and 1'H
 ### Why
-The main objective of this project is to provide a friendly environment to maintain the details of restaurants and library members. The main purpose of this project is replace the manually work.
+* The main objective of this project is to provide a friendly environment to maintain the details of restaurants and library members. The main purpose of this project is replace the manually work.
 ### Where
-This project can be implemented in restaurants for generating bills.
+* This project can be implemented in restaurants for generating bills.
 ### What
-It is Restaurant food ordering and billing system.
+* It is Restaurant food ordering and billing system.
 ### When
-It is used to simplify the billing at restaurant for easy printing of bills.
+* It is used to simplify the billing at restaurant for easy printing of bills.
 
 ### How
-This project is written in basic C programming language for easy understanding and executed in Visual Studio Code.
+* This project is written in basic C programming language for easy understanding and executed in Visual Studio Code.
 
 ## SWOT analysis
 ### Strengths
