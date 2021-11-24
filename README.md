@@ -4,7 +4,7 @@
 ![Code Quality Score](https://api.codiga.io/project/29905/score/svg)
 ![Code Grade](https://api.codiga.io/project/29905/status/svg)
 
-## Folder Structur
+## Folder Structure
 |Folder|Description|
 |---|---|
 |`1_Requirements`|Documents detailing requirements and research|
