@@ -7,8 +7,8 @@ SRC = src/Billing_operations.c\
 
 
 # All test source files
-TEST_SRC = Test/test_Billing_operations.c\
-Unity/unity.c
+TEST_SRC = test/test_Billing_operations.c\
+unity/unity.c
 
 # All include folders with header files
 INC = -Iinc\

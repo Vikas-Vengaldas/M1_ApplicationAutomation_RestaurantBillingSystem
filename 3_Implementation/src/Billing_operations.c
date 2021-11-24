@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
-#include "Billing_operations.h"
+#include "Initilization.h"
+#include "header.h"
 
 
 float Total_Bill(top *t)
