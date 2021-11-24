@@ -22,5 +22,18 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 |`5_Report`| Documentation of whole project|
 |`6_ImagesAndVideos`|Code execution Images and Videos|
 |`7_Others`|Other extra documents or files|
+## Contributors list and Summary
+
+PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------------------|----------------|----------------|---------------|-------------|--------------
+`40020879` |Vikas Vengaldas| Entire Project (Requirements, Architecture, Implementation and TestPlanAndOutput)  | 0        |0  |9 Overall Test cases  | All Passed    
+
+## Challenges Faced and How Was It Overcome
+| S.No | Challenge | Solution
+|-----|-----------|--------
+|1. | Implementation of SDLC and making UML diagrams | Exploring them and linking with the architechture of my project |
+|2. |MS Visual Studio code Setup  | Exploring the Visual studio code website, setup was completed|
+|3. | Making multifile for the program | Exploring the templates given by genesis team learned making multifile|
+
 
 
