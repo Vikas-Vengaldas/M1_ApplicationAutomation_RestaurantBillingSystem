@@ -52,7 +52,7 @@ void main()
 
     return UNITY_END();
 
-    /*top starter, main_course, dessert, odr;
+    top starter, main_course, dessert, odr;
     starter.start=main_course.start=dessert.start=odr.start=NULL;
     float FOOD_CODE;
     int qnty;
@@ -360,7 +360,7 @@ Main_Screen: printf("\n\nEnter Choice: 1. Login 2.New User 3.Exit\n");
                 goto Main_Screen;
             }
     }
-}*/
+}
 
 
 }
