@@ -38,5 +38,6 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 ## Learning Resources
 * [Markdown-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [gitinspector](https://github.com/ejwa/gitinspector)
-
+* [VS Code setup](https://github.com/stepin654321/MiniProject_Template/blob/master/GitSetup.md)
+* [System setup for Linux OS and Windows OS](https://github.com/stepin654321/MiniProject_Template/blob/master/SETUP.md)
 
