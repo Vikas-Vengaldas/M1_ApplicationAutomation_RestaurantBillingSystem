@@ -1,13 +1,4 @@
-**
- * @file test_Billing_operations.c
- * @author your name (sultanbepari2732000@gmail.com)
- * @brief test function
- * @version 0.1
- * @date 2021-09-06
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include<stdio.h>
 #include "Initilization.h"
 #include "header.h"
