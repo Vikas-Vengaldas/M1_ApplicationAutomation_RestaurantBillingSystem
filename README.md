@@ -26,7 +26,7 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-`40020879` |Vikas Vengaldas| Entire Project (Requirements, Architecture, Implementation and TestPlanAndOutput)  | 0        |0  |9 Overall Test cases  | All Passed    
+`40020879` |Vikas Vengaldas| Restaurant Billing System Application for ordering and billing  | 0        |0  |9 Overall Test cases  | All Passed    
 
 ## Challenges Faced and How Was It Overcome
 | S.No | Challenge | Solution
