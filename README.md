@@ -1,5 +1,8 @@
 
 # M1_Application_RestaurantBillingSystem
+## Code Inspector
+![Code Quality Score](https://api.codiga.io/project/29905/score/svg)
+![Code Grade](https://api.codiga.io/project/29905/status/svg)
 ## Folder Structure
 |Folder|Description|
 |---|---|
