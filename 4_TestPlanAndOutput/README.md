@@ -9,4 +9,4 @@
 | TID_06 | View Menu  | Structure Address| SUCCESS  |SUCCESS| Requirement based    |
 | TID_07  | Order Food  |Structure Address<br />Food Code<br />Quantity| SUCCESS  |SUCCESS| Requirement based    |
 | TID_08 | View Previous Orders  | Structure address| SUCCESS  |SUCCESS|  Requirement based    |
-| TID_09 | Total Bill  |Food Code: 1.01<br />Quantity: 2 | 400  |400|  Requirement based    |
+| TID_09 |   Total Bill  |Food Code: 1.01<br />Quantity: 2 | 400  |400|  Requirement based    |
