@@ -11,9 +11,9 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 ![Code Quality Score](https://api.codiga.io/project/29905/score/svg)
 ![Code Grade](https://api.codiga.io/project/29905/status/svg)
 ## Other Badges
-|Build|Code quality|Unity|
-|-----|-------------|-----|
-| [![C/C++ CI](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cbuild.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cbuild.yml)|[![Code Quality-Static Code-Cppcheck](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cpp-check.yml)|[![Unit testing](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/Unity.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/Unity.yml)|
+|Build|Code quality|Unity|Git Inspector|
+|-----|-------------|-----|------------|
+| [![C/C++ CI](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cbuild.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cbuild.yml)|[![Code Quality-Static Code-Cppcheck](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/cpp-check.yml)|[![Unit testing](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/Unity.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/Unity.yml)|[![Git Inspector](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/actions/workflows/gitinspector.yml)|
 ## Folder Structure
 |Folder|Description|
 |---|---|
