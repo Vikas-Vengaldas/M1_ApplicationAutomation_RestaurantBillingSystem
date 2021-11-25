@@ -9,7 +9,7 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 ## Code Quality
 | Code Inspector |Codacy|
 |-----------------|-------|
-![Code Quality Score](https://api.codiga.io/project/29905/score/svg )             ![Code Grade](https://api.codiga.io/project/29905/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0fe7f80e5c94378bff4c773760833f3)](https://www.codacy.com/gh/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vikas-Vengaldas/M1_Application_RestaurantBillingSystem&amp;utm_campaign=Badge_Grade)|
+![Code Quality Score]        ![Code Grade](https://api.codiga.io/project/29905/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0fe7f80e5c94378bff4c773760833f3)](https://www.codacy.com/gh/Vikas-Vengaldas/M1_Application_RestaurantBillingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vikas-Vengaldas/M1_Application_RestaurantBillingSystem&amp;utm_campaign=Badge_Grade)|
 ## Other Badges
 |Build|Code quality|Unity|Git Inspector|
 |-----|-------------|-----|------------|
