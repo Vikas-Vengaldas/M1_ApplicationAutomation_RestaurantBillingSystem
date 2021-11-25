@@ -3,6 +3,7 @@ name:  Code Quality-Static Code-Cppcheck
 on: [push]
 
 jobs:
+
   build:
     name: cppcheck
     runs-on: ubuntu-latest
