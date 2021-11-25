@@ -22,7 +22,7 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 |`3_Implementation`|All code and documentation    |
 |`4_Test_Plan`|Documents with test plans and procedures|
 |`5_Report`| Documentation of whole project|
-|`6_ImagesAndVideos`|Code execution Images and Videos|
+|`6_Images`|Code execution output Images|
 |`7_Others`|Other extra documents or files  |
 ## Contributors list and Summary
 
